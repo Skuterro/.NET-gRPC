@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2BAFEC-FA90-42D6-9C4F-E1103F78A719}|GrpcGreeter\\GrpcGreeter.csproj|c:\\users\\kacper\\desktop\\code\\c#\\grpcgreeter\\grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A2BAFEC-FA90-42D6-9C4F-E1103F78A719}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2BAFEC-FA90-42D6-9C4F-E1103F78A719}|GrpcGreeter\\GrpcGreeter.csproj|c:\\users\\kacper\\desktop\\code\\c#\\grpcgreeter\\grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A2BAFEC-FA90-42D6-9C4F-E1103F78A719}|GrpcGreeter\\GrpcGreeter.csproj|solutionrelative:grpcgreeter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\GrpcGreeter\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\GrpcGreeter\\appsettings.json",
+              "RelativeToolTip": "GrpcGreeter\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T15:58:41.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\GrpcGreeter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcGreeter\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T15:55:22.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
