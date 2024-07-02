@@ -18,5 +18,13 @@ namespace GrpcGreeter.Services
                 Message = "Hello " + request.Name
             });
         }
+
+        public override Task<GoodByeReply> SayGoodBye(GoodByeRequest request, ServerCallContext context)
+        {
+            return Task.FromResult(new GoodByeReply
+            {
+                Message = "Goodbye " + request.Name
+            });
+        }
     }
 }

@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\code\\C#\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "projectName": "GrpcGreeterClient",
-      "projectPath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectPath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
+      "outputPath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",

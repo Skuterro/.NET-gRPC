@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZtIgLLnlFYbCFsCdqOvEgj1HKA/zntJYhxM0/sD8m7iaLtouRMfST4NBwD86+s1lbfaRQjqcJtf2quQ0ZcaMQ==",
+  "dgSpecHash": "ym+uwmAfztFIXafleXBZ4E+pXI83x5kDt2pB2opazbKtGlhAjZ8HS/3v/Odx5gJx6yRVIi2nYffWPF9ScpmZOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kacper\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512",
     "C:\\Users\\Kacper\\.nuget\\packages\\grpc.core.api\\2.63.0\\grpc.core.api.2.63.0.nupkg.sha512",

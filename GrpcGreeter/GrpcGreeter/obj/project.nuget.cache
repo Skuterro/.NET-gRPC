@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q8WYihQmH6br3+gUsTvNC12FtInynkvDKOsROnVdyezWAAH+rDHz1amTRase7ZZVu59VTDccK7DqFaC/Y0NnwA==",
+  "dgSpecHash": "4Ha+C3fRkMD5+vIZ6l02ATiVnFHd1MqfkMbZ/cf5xx7FtVO4K5wtLrRJYes0dqwWuHOgr0RQnIcVuiyf0y4ruQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\code\\C#\\gRPC\\GrpcGreeter\\GrpcGreeter\\GrpcGreeter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kacper\\.nuget\\packages\\google.protobuf\\3.23.1\\google.protobuf.3.23.1.nupkg.sha512",
     "C:\\Users\\Kacper\\.nuget\\packages\\grpc.aspnetcore\\2.57.0\\grpc.aspnetcore.2.57.0.nupkg.sha512",
